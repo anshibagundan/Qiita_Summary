@@ -19,7 +19,7 @@ docker compose up
 
 ## 他のサイトで使うには
 fetch_webpage_text関数の中をいじってね
-```
+```py
 def fetch_webpage_text(url):
     response = requests.get(url)
     if response.status_code != 200:
