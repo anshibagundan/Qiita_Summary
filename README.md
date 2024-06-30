@@ -17,10 +17,8 @@ async function summarizeText(text) {
 ここにAPIを入力してみてね
 
 # 例
-Pythonでは
 <img width="652" alt="スクリーンショット 2024-06-30 16 41 49" src="https://github.com/anshibagundan/Qiita_Summary/assets/131508158/ab26702a-e8ab-403f-a581-35ccc267629c">
 
-Chromeでは
 <img width="807" alt="スクリーンショット 2024-06-30 22 07 10" src="https://github.com/anshibagundan/Qiita_Summary/assets/131508158/1cdb378d-95ea-4220-998d-8f388788a781">
 
 # pythonでの実行方法
