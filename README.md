@@ -48,7 +48,7 @@ def fetch_webpage_text(url):
     return text_content
 
 ```
-ここにタグと，classまたはidを指定すればサーチできます
+ここにタグと，classまたはidを指定すればサイト内の構成をサーチできます
 ```
 soup.find('div', class_='allWrapper')
 ```
